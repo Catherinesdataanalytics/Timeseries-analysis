@@ -5,6 +5,8 @@ However, getting further is not that easy when playing with timeseries analysis.
 
 Here are some useful tutorials and Kernals for beginners: 
 
+Articles: 
+
 * Beginner’s guide to create a Time Series Forecast: 
 https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 
@@ -18,3 +20,8 @@ https://medium.com/@jdwittenauer/time-series-forecasting-with-prophet-1067e9f816
 https://medium.com/@jdwittenauer/a-simple-time-series-analysis-of-the-s-p-500-index-b12ffdb13cd6
 
 * Kaggle time series competition: https://www.kaggle.com/c/web-traffic-time-series-forecasting
+
+MOOC:
+
+* Udacity-Machine Learning for trading
+https://classroom.udacity.com/courses/ud501
